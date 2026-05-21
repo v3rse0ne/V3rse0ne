@@ -48,28 +48,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.theme-blood.workers.dev/api?username=V3rseOne&show_icons=true&theme=blood&border_radius=10" alt="GitHub Stats" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/SECURITY%20LEVEL-MAXIMUM-red?style=for-the-badge&logo=ghostery&logoColor=white" />
-<img src="https://img.shields.io/badge/THREAT%20ACTOR-PRO-black?style=for-the-badge&logo=spytify&logoColor=red" />
-
-</div>
-
----
-
-## 🌐 Secure Communications
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCJbqj-RTQfX8AuhixdM_ttA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28" /></a>
-  <a href="https://t.me/@V3rse0ne" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" height="28" /></a>
-</p>
-
----
-
-<div align="center">
-
-`⚠️ DISCLAIMER: All security research is performed strictly in controlled lab environments. Exploits and vulnerabilities are disclosed responsibly in accordance with ISO/IEC 29147.`
-
-</div>
+```text
+======================================================
+[+] NODE STATUS       : OPERATIONAL / STEALTH MODE
+[+] ACCESS LEVEL      : ROOT / ADMINISTRATOR
+[+] CORE ENGINE       : V3rseOne.sh
+======================================================
