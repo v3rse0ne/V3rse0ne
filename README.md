@@ -1,16 +1,81 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**v3rse0ne/V3rse0ne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Nxploited;Offensive+Security;Exploit+Developer;CVE+Hunter" alt="Typing SVG" />
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/System-Breached%20%2F%20Secured-red?style=flat-square" alt="Status">
+  <img src="https://img.shields.io/badge/Focus-0day%20%26%20Kernel%20Exploitation-black?style=flat-square" alt="Focus">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*"I was here before you noticed, and gone before you realized."*
+
+---
+
+[![Telegram Channel](https://img.shields.io/badge/Telegram-Channel--0088cc?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/V3rseOneXploited)
+
+</div>
+
+---
+
+## ⚡ Main Workspace
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+      <h3>🔴 Operations Briefing</h3>
+      <ul>
+        <li>🔬 <b>Research:</b> Reverse engineering closed-source binaries, zero-day discovery, and breaking memory protections (ASLR/DEP bypass).</li>
+        <li>👁️ <b>Philosophy:</b> Security is an illusion. While others audit the surface, I audit the architecture to find the logic flaws they deemed impossible.</li>
+        <li>⚡ <b>Action:</b> Dropping payloads where conventional firewalls blind out. Code execution is achieved; the rest is just post-exploitation.</li>
+      </ul>
+    </td>
+    <td width="45%" valign="top">
+      <h3>💻 Weaponry & Tech Stack</h3>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+      <br><br>
+      <img src="https://img.shields.io/badge/Burp%20Suite-%23E66D11.svg?style=for-the-badge&logo=burpsuite&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+      <img src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 Telemetry & GitHub Logs
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=blood&border_radius=10" height="150" alt="stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=blood&border_radius=10" height="150" alt="languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=blood&bg_color=000000&hide_border=true" width="100%" alt="activity graph" />
+</div>
+
+---
+
+## 🌐 Secure Communications
+
+<p align="left">
+  <a href="https://www.youtube.com/channel/UCJbqj-RTQfX8AuhixdM_ttA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" height="28" /></a>
+  <a href="https://t.me/@V3rse0ne" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A69A?style=flat-square&logo=telegram&logoColor=white" height="28" /></a>
+</p>
+
+---
+
+<div align="center">
+
+`⚠️ DISCLAIMER: All security research is performed strictly in controlled lab environments. Exploits and vulnerabilities are disclosed responsibly in accordance with ISO/IEC 29147.`
+
+</div>
