@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=Nxploited;Offensive+Security;Exploit+Developer;CVE+Hunter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF3333&center=true&vCenter=true&width=435&lines=V3rseOne;Offensive+Security;Exploit+Developer;CVE+Hunter" alt="Typing SVG" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/System-Breached%20%2F%20Secured-red?style=flat-square" alt="Status">
@@ -47,20 +47,17 @@
 ## 📊 Telemetry & GitHub Logs
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=blood&border_radius=10" height="150" alt="stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=blood&border_radius=10" height="150" alt="languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_KAMU&theme=blood&bg_color=000000&hide_border=true" width="100%" alt="activity graph" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=V3rseOne&show_icons=true&theme=blood&border_radius=10" alt="V3rseOne's GitHub stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3rseOne&layout=compact&theme=blood&border_radius=10" alt="V3rseOne's Top Langs" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=V3rseOne&theme=blood&hide_border=true" width="100%" alt="GitHub Streak" />
+
 </div>
 
 ---
