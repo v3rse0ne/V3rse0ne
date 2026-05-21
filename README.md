@@ -48,11 +48,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=v3rseOne&show_icons=true&theme=blood&border_radius=10" alt="GitHub stats" />
+<img src="https://github-readme-stats.theme-blood.workers.dev/api?username=V3rseOne&show_icons=true&theme=blood&border_radius=10" alt="GitHub Stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3rseOne&layout=compact&theme=blood&border_radius=10" alt="Top Langs" />
+<img src="https://img.shields.io/badge/SECURITY%20LEVEL-MAXIMUM-red?style=for-the-badge&logo=ghostery&logoColor=white" />
+<img src="https://img.shields.io/badge/THREAT%20ACTOR-PRO-black?style=for-the-badge&logo=spytify&logoColor=red" />
 
 </div>
 
