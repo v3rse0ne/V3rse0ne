@@ -48,15 +48,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=V3rseOne&show_icons=true&theme=blood&border_radius=10" alt="V3rseOne's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=V3rseOne&show_icons=true&theme=blood&border_radius=10" alt="GitHub stats" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3rseOne&layout=compact&theme=blood&border_radius=10" alt="V3rseOne's Top Langs" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=V3rseOne&theme=blood&hide_border=true" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=V3rseOne&layout=compact&theme=blood&border_radius=10" alt="Top Langs" />
 
 </div>
 
